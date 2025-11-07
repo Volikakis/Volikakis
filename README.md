@@ -1,4 +1,4 @@
- Compte créé par Cammille Volikakis pour le cours SCI6201 de l'EBSI
+ Compte créé par Camille Volikakis pour le cours SCI6201 de l'EBSI
 
 <!--
 **Volikakis/Volikakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
